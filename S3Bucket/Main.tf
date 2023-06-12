@@ -8,7 +8,7 @@ terraform {
 
   backend "remote" {
   hostname = "app.terraform.io"  
-  organization = "SonixLabs"
+  organization = "SonixLabs1"
 
     workspaces {
       name = "AWSBackup"
